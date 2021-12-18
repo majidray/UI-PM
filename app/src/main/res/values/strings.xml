@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UIPM</string>
+    <string name="Nim">181402030</string>
+    <string name="Jurusan">Fadel Majid Muhammad</string>
+    <string name="Prodi">Teknologi Informasi</string>
+    <string name="Des">Profile</string>
+    <string name="des">pic1</string>
+    <string name="desc">pic2</string>
+    <string name="descr">pic3</string>
+    <string name="email">majidray23@gmail.com</string>
+    <string name="Nama">Fadel Majid Muhammad</string>
+    <string name="txtt">Data Mahasiswa</string>
+    <string name="simpan">Simpan</string>
+</resources>
